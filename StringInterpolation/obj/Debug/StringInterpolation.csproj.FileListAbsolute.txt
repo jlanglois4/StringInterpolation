@@ -1,0 +1,6 @@
+C:\Users\jo\Desktop\Module1C#\Mod2InClass\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.exe
+C:\Users\jo\Desktop\Module1C#\Mod2InClass\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.pdb
+C:\Users\jo\Desktop\Module1C#\Mod2InClass\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.csprojAssemblyReference.cache
+C:\Users\jo\Desktop\Module1C#\Mod2InClass\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\jo\Desktop\Module1C#\Mod2InClass\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.exe
+C:\Users\jo\Desktop\Module1C#\Mod2InClass\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.pdb
